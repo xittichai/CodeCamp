@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: whitesmoke;
+  }
+  
+  .profile {
+    line-height: 2em;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  .profile h1,
+  h3,
+  hr {
+    color: darkred;
+  }
+  
+  .profile hr {
+    border: 1px solid darkred;
+  }
+  
+  .profile h2 {
+    background-color: darkred;
+    color: white;
+  }
+  
+  .profile-header .profile-content {
+    margin: 0px 10vw !important;
+    padding: 0px 10vw !important;
+  }
+  
+  .profile-header {
+    display: flex;
+  }
