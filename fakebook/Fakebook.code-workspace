@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "backend"
+		},
+		{
+			"path": "frontend"
+		},
+		{
+			"path": "references"
+		}
+	],
+	"settings": {
+		"prettier.tabWidth": 4,
+		"prettier.singleQuote": true,
+		"prettier.printWidth": 10000,
+		"prettier.jsxSingleQuote": true,
+		"prettier.jsxBracketSameLine": true,
+		"prettier.arrowParens": "avoid"
+	}
+}

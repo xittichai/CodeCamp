@@ -1,0 +1,42 @@
+.Navbar {
+    width: 100%;
+    height: 83px;
+    background-color: #3b5998;
+}
+
+.top {
+    width: 980px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: inherit;
+}
+
+.top table td input {
+    width: 142px;
+    border: 1px solid #1d2a5b;
+    padding: 3px 2px 2px;
+    font-size: 14px;
+}
+
+.top table td {
+    padding-left: 14px;
+}
+
+.top table tr:nth-child(1) {
+    color: #fff;
+    padding-left: 1px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.top table tr:nth-chile(3) td {
+    color: #fff;
+}
+
+.top table tr:nth-child(2) button {
+    background-color: #4267b2;
+    font-weight: bold;
+    color: #fff;
+    border: 1px solid #29487d;
+}

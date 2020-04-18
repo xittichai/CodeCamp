@@ -1,0 +1,8 @@
+div:hover>.b5wmifdl, a:hover .b5wmifdl {
+    background-color: var(--hover-overlay);
+    opacity: 1 !important;
+}
+
+div:hover>.c5ndavph, a:hover .c5ndavph {
+    transition-duration: 0s !important;
+}

@@ -1,0 +1,6 @@
+.mainBody {
+    width: 980px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}

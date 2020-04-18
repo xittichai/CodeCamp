@@ -1,0 +1,18 @@
+https://www.tutorialspoint.com/webrtc/index.htm
+
+Building a WebRTC video broadcast using Javascript
+https://gabrieltanner.org/blog/webrtc-video-broadcast
+
+Building P2P Video Chat Application using webRTC and Node.js
+https://cloudnweb.dev/2019/09/building-p2p-video-chat-application-using-webrtc-and-node-js/
+
+Getting Started with WebRTC
+https://www.html5rocks.com/en/tutorials/webrtc/basics/
+
+ascii Camera
+https://andrei.codes/ascii-camera/
+https://github.com/idevelop/ascii-camera
+
+P2P Signaling for WebRTC
+https://www.youtube.com/watch?v=IqPJb6o_S1Q
+https://github.com/shama/letswritecode/tree/master/simple-p2p-with-webrtc
